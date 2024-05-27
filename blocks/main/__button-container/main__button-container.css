@@ -1,0 +1,6 @@
+.main__button-container {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}

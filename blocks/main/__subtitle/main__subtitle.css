@@ -1,0 +1,12 @@
+.main__subtitle {
+  font-family: GolosText, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.3;
+  color: #313131;
+  text-align: center;
+  max-width: 542px;
+  width: 100%;
+  margin: 0;
+  padding-top: 24px;
+}
