@@ -14,3 +14,5 @@
 @import url(../blocks/button/_type/button_type_more.css);
 @import url(../blocks/main/__title/_first-part/main__title_first-part.css);
 @import url(../blocks/main/__title/_second-part/main__title_second-part.css);
+@import url(../blocks/ticker/ticker.css);
+@import url(../blocks/ticker/__text/ticker__text.css);

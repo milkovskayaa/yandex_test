@@ -1,0 +1,22 @@
+.ticker__text {
+  margin: 0;
+  text-transform: uppercase;
+  font-family: Merriweather, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 1.1;
+  color: #fff;
+  animation: text 7s infinite linear;
+  padding-left: 100%;
+  white-space: nowrap;
+}
+
+@keyframes text {
+  0%{
+    transform: translate(0, 0);
+  }
+  
+  100%{
+    transform: translate(-160%, 0);
+  }
+}
