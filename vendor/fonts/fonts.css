@@ -1,0 +1,39 @@
+@font-face {
+  src: url(./GolosText_woff2/GolosText-Regular.woff2),
+       url(./GolosText_woff/GolosText-Regular.woff),
+       url(./GolosText_ttf/GolosText-Regular.ttf);
+  font-family: GolosText;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url(./GolosText_woff2/GolosText-Medium.woff2),
+       url(./GolosText_woff/GolosText-Medium.woff),
+       url(./GolosText_ttf/GolosText-Medium.ttf);
+  font-family: GolosText;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url(./GolosText_woff2/GolosText-DemiBold.woff2),
+       url(./GolosText_woff/GolosText-DemiBold.woff),
+       url(./GolosText_ttf/GolosText-DemiBold.ttf);
+  font-family: GolosText;
+  font-weight: 600;
+}
+
+@font-face {
+  src: url(./Merriweather_woff2/merriweatherregular.woff2),
+       url(./Merriweather_woff/merriweatherregular.woff),
+       url(./Merriweather_ttf/merriweatherregular.ttf);
+  font-family: Merriweather;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url(./Merriweather_woff2/merriweatherbold.woff2),
+       url(./Merriweather_woff/merriweatherbold.woff),
+       url(./Merriweather_ttf/merriweatherbold.ttf);
+  font-family: Merriweather;
+  font-weight: 700;
+}
