@@ -9,6 +9,7 @@
   animation: text 7s infinite linear;
   padding-left: 100%;
   white-space: nowrap;
+  padding: 18px 12px;
 }
 
 @keyframes text {
