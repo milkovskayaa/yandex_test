@@ -1,0 +1,5 @@
+.event__info {
+  display: flex;
+  gap: 44px;
+  padding-top: 64px;
+}

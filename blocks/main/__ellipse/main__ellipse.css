@@ -1,0 +1,8 @@
+.main__ellipse {
+  position: absolute;
+  top: -44px;
+  left: 673px;
+  width: 660px;
+  height: 660px;
+  z-index: 3;
+}

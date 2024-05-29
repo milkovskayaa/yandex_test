@@ -16,3 +16,15 @@
 @import url(../blocks/main/__title/_second-part/main__title_second-part.css);
 @import url(../blocks/ticker/ticker.css);
 @import url(../blocks/ticker/__text/ticker__text.css);
+@import url(../blocks/event/event.css);
+@import url(../blocks/event/__content/event__content.css);
+@import url(../blocks/event/__img/event__img.css);
+@import url(../blocks/event/__img/_first/event__img_first.css);
+@import url(../blocks/event/__img/_second/event__img_second.css);
+@import url(../blocks/event/__info/event__info.css);
+@import url(../blocks/event/__text/event__text.css);
+@import url(../blocks/event/__text/_bold/event__text_bold.css);
+@import url(../blocks/event/__text/_paragraph/event__text_paragraph_first.css);
+@import url(../blocks/event/__text/_paragraph/event__text_paragraph_second.css);
+@import url(../blocks/main/__ellipse/main__ellipse.css);
+@import url(../blocks/main/__city/main__city.css);

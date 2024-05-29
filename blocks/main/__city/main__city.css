@@ -1,0 +1,8 @@
+.main__city {
+  position: absolute;
+  width: 1366px;
+  height: 452.5px;
+  top: 255px;
+  left: -1px;
+  z-index: 4;
+}

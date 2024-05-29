@@ -1,0 +1,4 @@
+.event__content {
+  display: flex;
+  gap: 64px;
+}

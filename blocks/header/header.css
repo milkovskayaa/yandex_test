@@ -1,4 +1,6 @@
 .header {
   padding: 26px 72px 0;
+  background-image: url(../../../images/background.png);
   background-color: #E9DED4;
+  background-blend-mode: color-burn;
 }
