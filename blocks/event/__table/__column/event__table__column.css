@@ -1,0 +1,11 @@
+.event__table__column {
+  font-family: GolosText, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 1.2;
+  color: #313131;
+  text-align: left;
+  border-bottom: 2px solid #D0D0D0;
+  border-left: 2px solid #D0D0D0;
+  padding: 0 0 0 16px;
+}
