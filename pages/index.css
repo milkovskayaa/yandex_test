@@ -35,3 +35,6 @@
 @import url(../blocks/event/__table/__column/event__table__column.css);
 @import url(../blocks/link/link.css);
 @import url(../blocks/event/__info/__link/event__info__link.css);
+@import url(../blocks/event/__table/__title/_first/event__table__title_first.css);
+@import url(../blocks/event/__table/__title/_last/event__table__title_last.css);
+@import url(../blocks/event/__table/__column/_last/event__table__column_last.css);
