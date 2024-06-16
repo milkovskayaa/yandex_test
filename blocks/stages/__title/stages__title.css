@@ -1,0 +1,11 @@
+.stages__title {
+  font-family: Merriweather, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 54px;
+  line-height: 1.2;
+  color: #313131;
+  text-align: left;
+  max-width: 806px;
+  text-transform: uppercase;
+  margin: 0;
+}
